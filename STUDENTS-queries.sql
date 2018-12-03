@@ -1,5 +1,5 @@
 -- Abhinav Singh and Jake Veazey
--- asingh54@calpoly.edu and 
+-- asingh54@calpoly.edu and wveazey@calpoly.edu
 
 -- Q1
  SELECT Grade, COUNT(DISTINCT Classroom) AS Classrooms, COUNT(*) AS Students

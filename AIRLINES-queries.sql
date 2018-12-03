@@ -1,5 +1,5 @@
 -- Abhinav Singh and Jake Veazey
--- asingh54@calpoly.edu
+-- asingh54@calpoly.edu and wveazey@calpoly.edu
 
 -- Q1 
 SELECT a.Code, a.Name 
